@@ -3,38 +3,32 @@
     height: auto;
     margin: auto;
 }
-
 .ban {
     width: 1000px;
     height: 100px;
 }
-
 .ban img {
     width: 1000px;
     height: 100px;
 }
-
 .frst {
     width: 333px;
     height: 400px;
     float: left;
     background-color: blue;
 }
-
 .sec {
     width: 333px;
     height: 400px;
     float: left;
     background-color: red;
 }
-
 .thr {
     width: 333px;
     height: 400px;
     float: left;
     background-color: yellow;
 }
-
 footer {
     width: 1000px;
     height: 50px;
@@ -45,7 +39,6 @@ footer {
     text-align: center;
     line-height: 50px;
 }
-
 @media screen and (max-width:999px) {
     #contain {
         width: 100%;
@@ -87,7 +80,6 @@ footer {
         text-align: center;
         line-height: 50px;
     }
-
 }
 @media screen and (max-width:600px) {
     .frst {
@@ -102,7 +94,4 @@ footer {
         float: left;
         background-color: red;
     }
-    
-    
-
 }
